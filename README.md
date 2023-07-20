@@ -5,3 +5,4 @@ This is an assignemnt project on which i've been working with a team of other st
 control algorithm for a manual control, a collision avoidance and a terrain mapping. My responsiblity was to develop the software and handle a communication 
 between the android app and CORE2 developer board.
 
+![Lego_Spider_Pic](/photos/ph1.jpg)  
