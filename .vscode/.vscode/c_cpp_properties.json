@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/ports/stm32/include",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/ports/stm32/src",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/ports/stm32/src/hPeriph",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/ports/stm32/src/hUSB/usb",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/ports/stm32/src/hUSB",
+                "C:/Users/jakub/.vscode/extensions/husarion.husarion-1.5.30/sdk/include",
+                "c:\\Users\\jakub\\.vscode\\extensions\\husarion.husarion-1.5.30/sdk/include/hCloudClient",
+                "c:\\Users\\jakub\\.vscode\\extensions\\husarion.husarion-1.5.30/sdk/include/hROS",
+                "c:\\Users\\jakub\\.vscode\\HusarionTools\\arm-none-eabi\\include\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
